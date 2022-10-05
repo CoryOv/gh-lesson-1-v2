@@ -86,6 +86,7 @@ footer {
     display: flex;
     justify-content: space-evenly;
     width: 100%;
+    list-style: none;
 }
 
 .li-menu-bottom:hover {
